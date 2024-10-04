@@ -92,6 +92,7 @@ button {
   align-items: center;
   margin-top: 30px;
   margin-bottom: 30px;
+  min-height: 300px;
 }
 
 .randinf {
@@ -168,4 +169,13 @@ img[alt="noivern-blue"] {
 
 .blueb {
   border: solid white 2px;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1f2937;
+  color: #f9faf8;
+  min-height: 100px;
 }
